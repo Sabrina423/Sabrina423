@@ -2,12 +2,13 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Roda diariamente
+  workflow_dispatch:     # Permite rodar manualmente
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
