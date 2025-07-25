@@ -67,7 +67,6 @@ I'm passionate about learning, writing clean code, and creating solutions that a
 </div>
 
 ---
-
 ## 🐱‍👤 Easter Egg
 
 > ![Gatin bailando épico](https://media.tenor.com/-Z5AfJmcQVUAAAAC/gatinbailandoepico-cat.gif)
