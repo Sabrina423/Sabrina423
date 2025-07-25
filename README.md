@@ -24,6 +24,7 @@ I'm passionate about learning, writing clean code, and creating solutions that a
   <!-- Nodemon icon abaixo -->
   <img src="https://www.svgrepo.com/show/373932/nodemon.svg" width="50" alt="Nodemon"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" alt="jQuery"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" alt="Azure SQL DB"/>
 </p>
 
 ---
@@ -37,7 +38,6 @@ I'm passionate about learning, writing clean code, and creating solutions that a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" alt="Eclipse"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="50" alt="SQL Developer"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" alt="Azure SQL DB"/>
 </p>
 
 ---
