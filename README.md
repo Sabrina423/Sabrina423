@@ -67,7 +67,7 @@ I'm passionate about learning, writing clean code, and creating solutions that a
 </div>
 
 ---
-## 🐱‍👤 Easter Egg
+## 😽 Caatt
 
 > ![Gatinho dançante](https://raw.githubusercontent.com/Sabrina423/Sabrina423/main/gatinbailandoepico.gif)
 
