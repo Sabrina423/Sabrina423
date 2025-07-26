@@ -69,4 +69,5 @@ I'm passionate about learning, writing clean code, and creating solutions that a
 ---
 ## 🐱‍👤 Easter Egg
 
-> ![Gatin bailando épico](https://media.tenor.com/-Z5AfJmcQVUAAAAC/gatinbailandoepico-cat.gif)
+> ![Gatinho dançante](https://raw.githubusercontent.com/Sabrina423/Sabrina423/main/gatinbailandoepico.gif)
+
