@@ -2,7 +2,7 @@
 
 ## 🌟 About Me 🌟
 
-I'm a Full-Stack Developer currently pursuing a degree in Systems Analysis and Development. I have hands-on experience with academic projects such as capstone projects (TCCs) and agile sprints, where I applied technologies like Java, Python, Node.js, React, and TypeScript to build complete applications — from the backend logic and API integration to modern, responsive front-end interfaces.
+I'm a Full-Stack Developer currently pursuing a degree in Systems Analysis and Development. I have hands-on experience with academic projects such as capstone projects (TCCs) and agile sprints, where I applied technologies like Java, Python, Node.js, React, and TypeScript to build complete applications, from the backend logic and API integration to modern, responsive front-end interfaces.
 
 I also work with SQL and NoSQL databases, focusing on data modeling and manipulation. My skills extend to Power BI, where I build interactive dashboards and data visualizations to extract insights, supported by a solid understanding of finance and business metrics.
 
